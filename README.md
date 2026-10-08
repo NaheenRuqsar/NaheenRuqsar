@@ -1,28 +1,35 @@
 <div align="center">
 
-# Hii...!! I'm Naheen Ruqsar
+<br>
 
-### `CSE Student` • `Aspiring Software Developer`
+ Hi, I'm Naheen Ruqsar
 
-Building my skills through **web development, mobile applications, and practical projects.**
+CSE Student • Aspiring Software Developer
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=FFC1CC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+web+%26+mobile+applications;Learning+%7C+Building+%7C+Improving;Turning+ideas+into+projects+%E2%9C%A8" alt="Typing animation" />
+
+<br><br>
+
 <a href="mailto:shaiknaheenruqsar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFC1CC?style=for-the-badge&logo=gmail&logoColor=black" />
+<img src="https://img.shields.io/badge/EMAIL-FFC1CC?style=for-the-badge&logo=gmail&logoColor=0D0D0D" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/shaik-naheen-ruqsar-b0a828324">
-  <img src="https://img.shields.io/badge/LinkedIn-FFC1CC?style=for-the-badge&logo=linkedin&logoColor=black" />
+<img src="https://img.shields.io/badge/LINKEDIN-FFC1CC?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" />
 </a>
+&nbsp;
 <a href="https://github.com/NaheenRuqsar">
-  <img src="https://img.shields.io/badge/GitHub-FFC1CC?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/GITHUB-FFC1CC?style=for-the-badge&logo=github&logoColor=0D0D0D" />
 </a>
+
+<br><br>
 
 </div>
-
 ---
 
-## 🖤 About Me
+##  About Me
 
 Hi! I'm **Naheen Ruqsar**, a Computer Science Engineering student who enjoys learning by building practical projects.
 
@@ -37,7 +44,7 @@ I'm currently developing my skills in **software development, web technologies, 
 
 ---
 
-## 🌸 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -77,7 +84,7 @@ I'm currently developing my skills in **software development, web technologies, 
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🏥 CureQ — Hospital Queue Management
 
@@ -125,7 +132,7 @@ A weather application built using Python and a weather API to retrieve and displ
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -137,7 +144,7 @@ A weather application built using Python and a weather API to retrieve and displ
 
 ---
 
-## 🎯 My Goal
+##  My Goal
 
 > **Learn → Build → Improve → Repeat.**
 
