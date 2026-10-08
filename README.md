@@ -3,7 +3,7 @@
 
 # Hii...!! I'm Naheen Ruqsar
 
-### CSE Student • Aspiring Software Developer
+### Aspiring Software Developer
 
 Building my skills through *web development, mobile applications, and practical projects.*
 
