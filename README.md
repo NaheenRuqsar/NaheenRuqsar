@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFB6D9,100:000000&height=210&section=header&text=Shaik%20Naheen%20Ruqsar&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Engineering%20Student%20%E2%80%A2%20Kurnool,%20India&descAlignY=58&descSize=17&animation=twinkling" width="100%"/>
 <div align="center">
 
 # Hii...!! I'm Naheen Ruqsar
