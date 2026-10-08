@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖤 Naheen Ruqsar
+# Hii...!! I'm Naheen Ruqsar
 
 ### `CSE Student` • `Aspiring Software Developer`
 
