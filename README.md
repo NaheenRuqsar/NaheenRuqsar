@@ -1,30 +1,22 @@
 <div align="center">
 
+# Hii...!! I'm Naheen Ruqsar
+
+### CSE Student • Aspiring Software Developer
+
+Building my skills through *web development, mobile applications, and practical projects.*
+
 <br>
-
- Hi, I'm Naheen Ruqsar
-
-CSE Student • Aspiring Software Developer
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=FFC1CC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+web+%26+mobile+applications;Learning+%7C+Building+%7C+Improving;Turning+ideas+into+projects+%E2%9C%A8" alt="Typing animation" />
-
-<br><br>
 
 <a href="mailto:shaiknaheenruqsar@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FFC1CC?style=for-the-badge&logo=gmail&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Email-FFC1CC?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/shaik-naheen-ruqsar-b0a828324">
-<img src="https://img.shields.io/badge/LINKEDIN-FFC1CC?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/LinkedIn-FFC1CC?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
-&nbsp;
 <a href="https://github.com/NaheenRuqsar">
-<img src="https://img.shields.io/badge/GITHUB-FFC1CC?style=for-the-badge&logo=github&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/GitHub-FFC1CC?style=for-the-badge&logo=github&logoColor=black" />
 </a>
-
-<br><br>
 
 </div>
 ---
