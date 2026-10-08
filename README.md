@@ -129,27 +129,11 @@ A weather application built using Python and a weather API to retrieve and displ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NaheenRuqsar&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFC1CC&text_color=FFFFFF&icon_color=FFC1CC" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NaheenRuqsar&theme=dark&hide_border=true&background=0D0D0D&ring=FFC1CC&fire=FFC1CC&currStreakLabel=FFC1CC&sideLabels=FFFFFF&dates=888888" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaheenRuqsar&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFC1CC&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaheenRuqsar&bg_color=0D0D0D&color=FFC1CC&line=FFC1CC&point=FFFFFF&area=true&hide_border=true" width="98%"/>
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-```text
-Flutter & Dart
-        ↓
-Web Development
-        ↓
-Node.js & Express
-        ↓
-Java & Problem Solving
-        ↓
-Building Better Projects
-```
 
 ---
 
